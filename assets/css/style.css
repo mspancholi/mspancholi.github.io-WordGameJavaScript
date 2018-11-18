@@ -1,0 +1,27 @@
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+
+  h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    font-style: italic;
+  }
+  
+.col-sm-4 {
+
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    color: green;
+
+    }
+
+    .col-sm-12 {
+    font-family: Arial, Helvetica, sans-serif;
+    }
